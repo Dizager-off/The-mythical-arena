@@ -1,0 +1,139 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Assets_shadows.tsx": {
+            "scaleInDock": 0.75
+        },
+        "Assets_shadows_source.tsx": {
+            "scaleInDock": 3
+        },
+        "C:/Users/Dizager/AppData/Local/Temp/7zO4070BEF3/Undead_land.tmx": {
+            "scale": 1.1231770833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 256.4154880593555,
+                "y": 127.76257825179692
+            }
+        },
+        "C:/Users/Dizager/AppData/Local/Temp/7zO4070BEF3/Undead_land.tmx#Ground_rocks": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/AppData/Local/Temp/7zO4070BEF3/Undead_land.tmx#Objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/AppData/Local/Temp/7zO4070BEF3/Undead_land.tmx#Objects_animated": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/AppData/Local/Temp/7zO4070BEF3/Undead_land.tmx#Objects_animated2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/AppData/Local/Temp/7zO4070BEF3/Undead_land.tmx#Objects_animated3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/AppData/Local/Temp/7zO4070BEF3/Undead_land.tmx#Water_detilazation": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/AppData/Local/Temp/7zO4070BEF3/Undead_land.tmx#details": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/AppData/Local/Temp/7zO4070BEF3/Undead_land.tmx#water_coasts": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/AppData/Local/Temp/7zO4070BEF3/Water_detilazation2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/Documents/GitHub/AssetsGame/enviroment/House and garden/Tiled_files/Interior1.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -95.33333333333334,
+                "y": 2.1666666666666714
+            }
+        },
+        "C:/Users/Dizager/Documents/GitHub/AssetsGame/enviroment/House and garden/Tiled_files/Interior1.tmx#Doors_windows_animation": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/Documents/GitHub/AssetsGame/enviroment/House and garden/Tiled_files/Interior1.tmx#Interior": {
+            "scaleInDock": 1.5
+        },
+        "C:/Users/Dizager/Documents/GitHub/AssetsGame/enviroment/House and garden/Tiled_files/Interior1.tmx#walls_floor": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/Documents/GitHub/AssetsGame/tiles/trap/Dungeon1_objects.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 248,
+                "y": 147.5
+            }
+        },
+        "C:/Users/Dizager/Documents/GitHub/AssetsGame/tiles/trap/Dungeon1_objects.tmx#Other_objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/Documents/GitHub/AssetsGame/tiles/trap/Dungeon1_objects.tmx#Suply_objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/Documents/GitHub/AssetsGame/tiles/trap/Dungeon1_objects.tmx#fire_trap": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/Documents/GitHub/AssetsGame/tiles/trap/Dungeon1_objects.tmx#pedestals": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/Documents/GitHub/AssetsGame/tiles/trap/Dungeon1_objects.tmx#trap_plate": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Dizager/Documents/GitHub/AssetsGame/tiles/trap/Dungeon1_objects.tmx#trap_saw": {
+            "scaleInDock": 1
+        },
+        "Cum_objects.tsx": {
+            "scaleInDock": 3
+        },
+        "Cum_walls.tsx": {
+            "scaleInDock": 2
+        },
+        "Grass.tsx": {
+            "scaleInDock": 2
+        },
+        "Objects_diff.tsx": {
+            "scaleInDock": 1
+        },
+        "Portal_shadow.tsx": {
+            "scaleInDock": 2
+        },
+        "Ruins_shadows.tsx": {
+            "scaleInDock": 1
+        },
+        "Tileset.tsx": {
+            "scaleInDock": 1.5
+        },
+        "Tileset_Brown.tsx": {
+            "scaleInDock": 1.5
+        },
+        "Trees_shadow.tsx": {
+            "scaleInDock": 1
+        },
+        "start_zone.tmx": {
+            "scale": 8,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 245.5625,
+                "y": 280.3125
+            }
+        }
+    },
+    "frame.defaultDuration": 700,
+    "openFiles": [
+    ],
+    "project": "Forest.tiled-project",
+    "recentFiles": [
+        "C:/Users/Dizager/AppData/Local/Temp/7zO4070BEF3/Undead_land.tmx",
+        "C:/Users/Dizager/Documents/GitHub/AssetsGame/enviroment/House and garden/Tiled_files/Interior1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
